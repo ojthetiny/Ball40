@@ -377,7 +377,7 @@ U 1 1 5F613CC4
 P 7450 2450
 F 0 "J2" H 7557 3317 50  0000 C CNN
 F 1 "USB_C_Receptacle_USB2.0" H 7557 3226 50  0000 C CNN
-F 2 "Type-C:HRO-TYPE-C-31-M-12" H 7600 2450 50  0001 C CNN
+F 2 "Type-C:USB_C_GCT_USB4085" H 7600 2450 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 7600 2450 50  0001 C CNN
 	1    7450 2450
 	1    0    0    -1  
@@ -1619,7 +1619,7 @@ U 1 1 5F643583
 P 7050 4350
 F 0 "J1" V 6977 4278 50  0000 C CNN
 F 1 "Conn_01x08_Male" V 6886 4278 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 7050 4350 50  0001 C CNN
+F 2 "Connector_JST:JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal" H 7050 4350 50  0001 C CNN
 F 3 "~" H 7050 4350 50  0001 C CNN
 	1    7050 4350
 	0    -1   -1   0   
