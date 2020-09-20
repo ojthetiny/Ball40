@@ -1712,4 +1712,24 @@ F 3 "" H 7800 3450 50  0001 C CNN
 	1    7800 3450
 	1    0    0    -1  
 $EndComp
+Text GLabel 6050 4000 2    50   Input ~ 0
+COL5
+Text GLabel 6050 4200 2    50   Input ~ 0
+COL6
+Text GLabel 6050 4100 2    50   Input ~ 0
+COL7
+Text GLabel 6050 4300 2    50   Input ~ 0
+COL8
+Text GLabel 6050 4400 2    50   Input ~ 0
+COL9
+Text GLabel 6050 2900 2    50   Input ~ 0
+COL4
+Text GLabel 6050 3000 2    50   Input ~ 0
+COL3
+Text GLabel 6050 3100 2    50   Input ~ 0
+COL2
+Text GLabel 6050 3400 2    50   Input ~ 0
+COL1
+Text GLabel 6050 3500 2    50   Input ~ 0
+COL0
 $EndSCHEMATC
